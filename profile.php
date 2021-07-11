@@ -39,7 +39,7 @@
         while($row = mysqli_fetch_array($result)){ 
     ?>
         <div class="box">
-            <img src="download.png"></image>
+            <img src="images/download.png"></image>
             <br>
             <span class="details">Username</span>
             <input type="text"name="name" value="<?php echo $row['username'] ?>" placeholder="Username">

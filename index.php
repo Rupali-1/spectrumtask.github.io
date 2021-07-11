@@ -28,7 +28,7 @@
                       <i class="fas fa-bars"></i>
                     </label>
                      <div class="logo animate__animated animate__bounceInDown">
-                           <img src="logo.png"width="300"height="70">
+                           <img src="images/logo.png"width="300"height="70">
                      </div>
                            <ul>
                               <li><a class="active" href="#"><i class="fa fa-home"></i>Home</a></li>
@@ -66,7 +66,7 @@
                        <h1>ABOUT US</h1>   
                  </About><hr>
                    <P>
-                     <img src="About_us.png" height="450"width="500" align="left"/>
+                     <img src="images/About_us.png" height="450"width="500" align="left"/>
                     
                      SPECTRUM ,Technical society of COLLEGE OF ENGINEERING AND TECHNOLOGY, BHUBANESWAR,
                      a place for all technical enthusiasts to learn,
@@ -158,7 +158,7 @@
           
             <div class="cards"height="600px"data-aos="fade-up">
               <div class="image">
-                <img src="1 (3).jpeg"height="270"/>
+                <img src="images/1 (3).jpeg"height="270"/>
               </div>
               <div class="title">
                 <h2>Ultrasonic Radar Based Horn System</h2>
@@ -171,7 +171,7 @@
          
             <div class="cards"data-aos="fade-up">
               <div class="image">
-                <img src="WhatsApp Image 2021-06-28 at 09.41.52 (1).jpeg"height="310"/>
+                <img src="images/WhatsApp Image 2021-06-28 at 09.41.52 (1).jpeg"height="310"/>
               </div>
               <div class="title">
                 <h3>BHAAVANA</h3>
@@ -184,7 +184,7 @@
          
             <div class="cards"data-aos="fade-up">
               <div class="image">
-                <img src="WhatsApp Image 2021-06-28 at 09.41.51.jpeg"height="275"/>
+                <img src="images/WhatsApp Image 2021-06-28 at 09.41.51.jpeg"height="275"/>
               </div>
               <div class="title">
                 <h3>SUPPLY BOT</h3>
@@ -198,7 +198,7 @@
           
             <div class="cards"data-aos="fade-up">
               <div class="image">
-                <img src="1 (2).jpeg"height="230"/>
+                <img src="images/1 (2).jpeg"height="230"/>
               </div>
               <div class="title">
                 <h3>FRIENDLY-MEDICO</h3>
@@ -215,7 +215,7 @@
          
             <div class="cards"data-aos="fade-up">
               <div class="image">
-                <img src="1 (1).jpeg"height="275"/>
+                <img src="images/1 (1).jpeg"height="275"/>
               </div>
               <div class="title">
                 <h3>Extractive-Text-Summarization</h3>
@@ -231,7 +231,7 @@
          
             <div class="cards"data-aos="fade-up">
               <div class="image">
-                <img src="WhatsApp Image 2021-06-28 at 09.41.52.jpeg"height="235"/>
+                <img src="images/WhatsApp Image 2021-06-28 at 09.41.52.jpeg"height="235"/>
               </div>
               <div class="title">
                 <h3>SMART TOILET FOR SENIOR CITIZENS AND PATIENTS</h3>
