@@ -1,0 +1,89 @@
+body{
+   
+    background-color: #1c2833;
+    
+}
+*:focus{
+    outline: none;
+}
+.main{
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topbar{
+    background-color: teal;
+    overflow: hidden;
+
+}
+.topbar h2{
+      float:left ;
+      color: white;
+}
+.topbar a{
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+    font-size: 26px;
+}
+.box{
+    box-sizing: border-box;
+    width: 500px;
+    height: 800px;
+    border: 2px solid #3498db;
+    box-shadow: -3px -3px 7px #ffffff73,
+                3px 3px 5px rgba(94,104,121,0,288);
+    border-radius: 5px;
+    background-color: black;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    overflow: hidden;
+    
+    
+}
+img{
+    box-sizing: border-box;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border: 5px solid #0082e6;
+    padding: 5px;
+    background-color: aliceblue;
+    
+}
+.details{
+    color: aliceblue;
+    text-align: left;
+    
+}
+input[type="text"],
+input[type="email"]{
+    display: block;
+    box-sizing: border-box;
+    background: none;
+    color: #3498db;
+    margin-bottom: 30px;
+    padding: 4px;
+    width: 200px;
+    height: 20px;
+    border: none;
+    text-align: center;
+    border-bottom: 1px solid #0082e6;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    transition: 0.2s ease;
+    
+}
+input[type="text"]:focus,
+input[type="email"]:focus{
+    border-bottom: 2px solid #3498db;
+    border-bottom-right-radius: 20px;
+    color: #3498db;
+    transition: 0.2 ease;
+}
